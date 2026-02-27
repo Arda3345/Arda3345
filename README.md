@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arda3345
+- 👋 Hi, I’m @Arda
 - 👀 I’m interested in software , video games , films , movies ,
 - 🌱 I’m currently learning HTML , CSS , C , C# .
 - 💞️ I’m looking to collaborate on ...
